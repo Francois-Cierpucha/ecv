@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+}
+#arrow{
+  transform: rotate(90deg);
+  position: absolute;
+  top: 25%;
+  left:24%;
+}
+#project{
+  position: absolute;
+  top:5%;
+  left: 18%;
+  right: 45%;
+  font-size: 50px;
+}
+.leftbloc{
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  right: 55%;
+  font-size: 35px;
+}
+#Passion{
+  position: absolute;
+  left: 55%;
+  right: 5%;
+  top: 5%;
+  font-size: 50px;
+}
+.rightbloc{
+  position: absolute;
+  left: 55%;
+  right: 5%;
+  top: 25%;
+  font-size: 35px
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.vtt{
+  margin: 0;
+  float: left;
+  opacity: 0.4;
+}
+.bureau{
+  margin: 0;
+  float: left;
+  opacity: 0.4;
+}

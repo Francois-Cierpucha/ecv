@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+}
+.leftboxpicture{
+  position: absolute;
+  left: 0%;
+  right: 60%;
+  opacity: 0.4;
+}
+#diplome{
+  padding: 0% 10%;
+}
+#dog{
+  padding: 15% 0% 0%;
+}
+#clavier{
+ padding: 10% 0%;
+}
+.leftboxword{
+  position: absolute;
+  left: 0%;
+  right: 60%;
+  font-size: 40px;
+}
+#d2016{
+  padding: 10% 10%;
+}
+#d2019{
+padding: 30% 10% 0%;
+}
+#lamanu{
+padding: 28% 0%;
+}
+.middlebox{
+  position: absolute;
+  left: 40%;
+  right: 40%;
+  font-size: 50px;
+  margin: 0;
+  background-color: orange;
+}
+#date2016{
+  padding: 10% 40%;
+}
+#date2017 {
+  padding: 10% 40%;
+}
+#date2018 {
+  padding: 10% 40%;
+}
+#date2019 {
+  padding: 30% 40%;
+}
+#date2020{
+  padding: 30% 40%;
+}
+.rightboxpicture{
+  position: absolute;
+  left: 60%;
+  right: 0%;
+  opacity: 0.4;
+}
+#cat{
+  padding: 25% 15% 0%;
+}
+#beach{
+  padding: 8% 0%;
+}
+.rightboxword{
+  position: absolute;
+  left: 60%;
+  right: 0%;
+  font-size: 40px;
+}
+#ifsa{
+padding: 35% 15% 0%;
+}
+#Berck{
+padding: 20% 15%;
+}
